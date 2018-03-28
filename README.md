@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 28, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kibinesh Fulas  
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignments implements using JSON jQuery $.ajax() to recieve movie titles or names from users and retrieve detail information about the movie from a database, mamely TMDB Server. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kibinesh.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to make your html ready to for data from database by placing placeholder elements.
+2. How to link to a database from which data is retrieved as JSON object using jQuery $.ajax() method and .
+3. How to extract specific information from the retrieved JSON and place it in its designated location in our html and in the process update part of the page without reload.
